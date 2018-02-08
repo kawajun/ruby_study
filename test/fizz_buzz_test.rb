@@ -1,7 +1,7 @@
 require 'minitest/autorun'
 require './lib/fizz_buzz'
 
-#fizzして、buzzするクラスです。
+#fizzして、buzzするクラスです。。。。。
 class FizzBuzzTest < Minitest::Test
   def test_fizz_buzz
 	assert_equal '1', fizz_buzz(1)
